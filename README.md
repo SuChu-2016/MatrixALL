@@ -3,6 +3,7 @@
 ## Project Overview
 
 The Matrix Project is a foundational scientific research initiative for next-generation big data transmission and data exchange, aimed at creating new momentum and opening new frontiers.
+> **Statement**: During the research period from 2013 to 2020, after continuously improving the research results and algorithm designs of Matrix algorithms, progress was made in the design philosophy of Matrix and the basic algorithms of certain components. After 2020, these were discussed and introduced to certain large enterprises, universities, and related organizations. Unfortunately, some of these design features were preemptively patented by certain individuals afterward, attempting to create a patent blockade, which forced us to spend enormous time redesigning the algorithm architecture. We hereby state that the core algorithms and architecture have never been leaked to unrelated individuals or enterprises. We warn certain individuals and enterprises to please keep some dignity.
 
 ## Core Technology
 
